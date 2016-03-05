@@ -1,0 +1,25 @@
+commit ddd441c8a358a0fde60c9d1deb792c2dd2eae1dc
+Author: LMayhew <lmayhew2002@yahoo.com>
+Date:   Fri Mar 4 17:33:51 2016 -0700
+
+    Revert "Rearrange the items to bring on an outdoor trip."
+    
+    This reverts commit 9d2de4c398f768bbd263da61676ccc196bf93c1b.
+
+commit 9d2de4c398f768bbd263da61676ccc196bf93c1b
+Author: LMayhew <lmayhew2002@yahoo.com>
+Date:   Fri Mar 4 17:15:50 2016 -0700
+
+    Rearrange the items to bring on an outdoor trip.
+
+commit 0c3884b337c4646de9c462270e935bc70b0ea508
+Author: LMayhew <lmayhew2002@yahoo.com>
+Date:   Fri Mar 4 16:54:38 2016 -0700
+
+    Changed 24 hour support number to 4314
+
+commit aae5c4b1a6af99c7318152340baf65b9c496fdca
+Author: LMayhew <lmayhew2002@yahoo.com>
+Date:   Fri Mar 4 12:42:38 2016 -0700
+
+    Initial commit
